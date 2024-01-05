@@ -1,4 +1,4 @@
-Markup :  # Tower Defense #
+# Tower Defense #
 
 <img width="1277" alt="Capture d’écran 2024-01-05 à 15 14 19" src="https://github.com/kvn-chn/tower-defense/assets/139592148/1f15bc70-0352-4efc-91ce-13ec337222c8">
 
@@ -14,7 +14,6 @@ Les tours sont utilisées pour éliminer des ennemis ou, dans des versions moins
 
 Les tours sont souvent différenciées par :
 
-Markup : 
 * leur coût ;
 * les dégâts qu’elles causent ;
 * leur vitesse d’attaque ;
