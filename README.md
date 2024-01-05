@@ -21,5 +21,5 @@ leur portée d’attaque ;
 leur type d’attaque ;
 et certaines capacités spécifiques (par exemple ralentir le déplacement des ennemis ou objets).
 
-<img width="1680" alt="Capture d’écran 2024-01-05 à 15 34 36" src="https://github.com/kvn-chn/tower-defense/assets/139592148/3d9a1f75-fc92-4fc7-904a-4b8bc1357ab5">
+<img width="1280" alt="Capture d’écran 2024-01-05 à 15 34 36" src="https://github.com/kvn-chn/tower-defense/assets/139592148/9976a01d-024b-48ea-ab60-5ad148de51b8">
 
